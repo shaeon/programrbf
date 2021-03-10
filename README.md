@@ -7,7 +7,7 @@ The big work was made from Victor Trucco, so this program can't was possible wit
 **Thanks Victor for your great work.**
 
 
-### **Instruction**
+### **Instructions**
 
 I used a RPI ZERO with Raspbian but its must work in any RPI (just need check on RPI 4).
 
